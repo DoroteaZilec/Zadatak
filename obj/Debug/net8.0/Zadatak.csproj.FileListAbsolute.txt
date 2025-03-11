@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Zadatak\bin\Debug\net8.0\Zadatak.exe
+C:\Users\ASUS\Desktop\Zadatak\bin\Debug\net8.0\Zadatak.deps.json
+C:\Users\ASUS\Desktop\Zadatak\bin\Debug\net8.0\Zadatak.runtimeconfig.json
+C:\Users\ASUS\Desktop\Zadatak\bin\Debug\net8.0\Zadatak.dll
+C:\Users\ASUS\Desktop\Zadatak\bin\Debug\net8.0\Zadatak.pdb
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.dll
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\refint\Zadatak.dll
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.pdb
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\Zadatak.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Zadatak\obj\Debug\net8.0\ref\Zadatak.dll
